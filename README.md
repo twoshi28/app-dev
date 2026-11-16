@@ -1,13 +1,10 @@
-# app-dev
-My first repository
-
 <img width="560" height="840" alt="MaidSama" src="https://github.com/user-attachments/assets/da8dc916-2574-4f32-b5f9-6adcf27a6eba" />
 
 ## My Favorite Anime: *Kaichou wa Maid-sama!* (2010)
 
 **Genre:** Romance / Comedy / School 
 **Director:** Hiroaki Sakurai
-**Writers:** Hiro Fujiwara (manga), Mamiko Ikeda (series composition)
+**Writers:** Hiro Fujiwara (manga), Mamiko Ikeda (series composition) 
 **Studio:** J.C.Staff
 **Episodes:** 26 | **Runtime:** 24 min per episode
 **Release Date:** April 1, 2010 (Japan)
